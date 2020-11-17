@@ -12,4 +12,4 @@ public interface Task {
 
 //lambda expression is a handy and alternate syntax for anonymous class
 
-// but applicable if and only the anonymous class has one method
+// but applicable if and only the anonymous class has one method unimplemented
