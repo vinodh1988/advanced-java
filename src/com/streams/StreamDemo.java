@@ -17,6 +17,7 @@ public class StreamDemo {
 	   
 	   System.out.println("---------------------------------");
 	   
+	   
 	   //stream.forEach(x -> System.out.println(x.toUpperCase()) );
 	   
    }
