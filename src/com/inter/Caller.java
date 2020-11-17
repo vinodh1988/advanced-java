@@ -4,8 +4,10 @@ public class Caller {
   public static void call() {
 	  
 	  //anonymous class
+	  
+	  //LibraryClass.LibraryMethod(new Temp());
 	  LibraryClass.LibraryMethod(new Task() {
-
+//
 		@Override
 		public void activity(String name) {
 			// TODO Auto-generated method stub
