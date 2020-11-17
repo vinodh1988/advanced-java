@@ -6,7 +6,7 @@ public interface Sample {
    
    default void helper() {
 	   System.out.println("this is a helper method");
-	  
+	   
    }
    
    static void fine() {
