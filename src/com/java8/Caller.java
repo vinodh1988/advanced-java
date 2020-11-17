@@ -32,6 +32,7 @@ public class Caller {
 	   s.process();
 	   s.helper();
 	   
+	   Sample.fine();
 	   
    }
 }
